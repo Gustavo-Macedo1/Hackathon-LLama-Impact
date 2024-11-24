@@ -22,10 +22,6 @@
 
 The project aims to create a low-cost, AI-powered dashboard that analyzes students' academic performance, school records, and teachers' feedback. It addresses challenges in tracking student development and identifying cognitive issues early. Using a multi-agent system based on Llama 3.1, the solution enhances communication between schools, families, and professionals, providing updated information for diagnostic assessments.
 
-Key features: ✅ Easy-to-understand dashboard with academic insights.
-✅ AI guidance for professionals on handling specific cases.
-✅ Detection of potential learning or cognitive disorders with alerts for specialists.
-
 </div>
 
 <br>
