@@ -65,8 +65,19 @@ This project aims to create a low-cost, AI-powered dashboard that synthesizes st
 ### 🚧 Adicionar oq não foi feito no Hackathon
 - **Timeline**: As atividades relacionadas com as fases enumeradas acima serão desenvolvidas durante o **mês de maio de 2024**. Um modelo treinado pronto para responder perguntas sobre as perguntas mais frequentes de MMGD deverá ser apresentado até o final do mês. 🚧
 
+## Market Size
 
-# 🚧🚧 ADICIONAR BENCHMARK, ESCOPO DE MERCADO [TAM] e [SAM], FLUXO DE RECEITA E ESCALABILIDADE 🚧🚧
+### Market Overview in Brazil
+
+Approximately 33.8 million students are enrolled in elementary and high schools in Brazil, as per the 2023 School Census. These students are spread across 178,500 schools, with 59.8% in the public network and 23.3% in the private sector.
+
+### Target Focus and Goals
+
+The focus is on serving both the public education sector (through government tenders) and the private sector, with an emphasis on efficient, data-driven educational management. The goal is to impact 5% of schools in Brazil, which amounts to about 8,925 institutions, improving the quality of education and school management.
+
+### Business Model and Market Potential
+
+The model involves a monthly fee of $50 per student, alongside implementation costs for new institutions. The Serviceable Obtainable Market (SOM) is valued at $92.75M, the Serviceable Addressable Market (SAM) at $151M, and the Total Addressable Market (TAM) at $169M. 🚧🚧
 
 
 ## Technical Requirements: 
