@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🚧 ![EduTrack AI LOGO](") 🚧
+ ![2arhVNp.md.png](https://iili.io/2arhVNp.md.png)]
 
 </div>
 
