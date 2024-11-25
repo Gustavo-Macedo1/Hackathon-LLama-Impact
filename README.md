@@ -86,11 +86,10 @@ The model involves a monthly fee of $50 per student, alongside implementation co
 
 - ;
 
-- Ambientes de desenvolvimento: ![Static Badge](https://img.shields.io/badge/Google%20Colab-purple)
- ou ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue)
-;
+- Ambientes de desenvolvimento: ![Static Badge](https://img.shields.io/badge/Google%20Colab-purple) ![Static Badge](https://img.shields.io/badge/Microsoft_Power_BI-blue)
+![Static Badge](https://img.shields.io/badge/Llama3.1_8B_Instruct-Multi--Agent-yellow?style=flat&label=Llama%203.1%208B%20Instruct&color=yellow)
 
-- Linguagem: ![Static Badge](https://img.shields.io/badge/Python-3.8%20ou%20superior-brightgreen)
+- Linguagem: ![Static Badge](https://img.shields.io/badge/Python-brightgreen)
 
 
 - Bibliotecas Python: `pip`, `pandas`, `transformers`, `datasets`, `google.colab.files`, `protobuf(3.20.3)`, `tensorflow`, `autotrain`. 🚧
