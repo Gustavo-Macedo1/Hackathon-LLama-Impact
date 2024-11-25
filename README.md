@@ -1,4 +1,4 @@
-# Hackathon-LLama-Impact
+# Llama Impact Pan-LATAM Hackathon
 
 <div align="center">
 
