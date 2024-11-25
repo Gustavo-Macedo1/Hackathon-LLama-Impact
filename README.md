@@ -6,7 +6,7 @@
 
 </div>
 
-<h1 align="center"> XXX - Project </h1>
+<h1 align="center"> EduTrack AI </h1>
 
 <br>
 
