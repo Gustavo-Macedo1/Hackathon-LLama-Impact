@@ -20,7 +20,7 @@
 ![Static Badge](https://img.shields.io/badge/Llobo_Squad-Create_in%3A?logo=Novembro%2F24&label=Llama%20Impact%20Pan-LATAM%20Hackathon&color=blue)
 
 
-The project aims to create a low-cost, AI-powered dashboard that analyzes students' academic performance, school records, and teachers' feedback. It addresses challenges in tracking student development and identifying cognitive issues early. Using a multi-agent system based on Llama 3.1, the solution enhances communication between schools, families, and professionals, providing updated information for diagnostic assessments.
+This project aims to create a low-cost, AI-powered dashboard that synthesizes students' academic performance, school records, and teacher feedback to improve monitoring, early diagnosis, and communication between schools, families, and professionals.
 
 </div>
 
