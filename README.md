@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🚧 ![Llama-impact](") 🚧
+🚧 ![EduTrack AI LOGO](") 🚧
 
 </div>
 
@@ -94,10 +94,10 @@ This project aims to create a low-cost, AI-powered dashboard that synthesizes st
 - Contact the team leader by using the following e-mail: **gustavoomacedo@outlook.com.br**
 
 ## Meet the Project Team
-### 🚧 Linkar GITHUB Luiz, Isaque e Mateus
+
 - [Gustavo de Oliveira Macedo](https://github.com/Gustavo-Macedo1)
-- [Luiz Henrique Zamprogno](https://github.com/)
+- [Luiz Henrique Zamprogno](https://github.com/luiz-hfz)
 - [Luzia Fernanda Alves Moura](https://github.com/LuziaMoura)
-- [Isaque Santos](https://github.com/)
-- [Mateus Rabelo de Oliveira](https://github.com/)
-- [Marcus Vinicius Rabelo Martins](https://github.com/rabelomanager) 🚧
+- [Isaque Santos](https://github.com/isaquesh)
+- [Mateus Rabelo de Oliveira](https://github.com/takatoblue)
+- [Marcus Vinicius Rabelo Martins](https://github.com/rabelomanager)
