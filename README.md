@@ -1,4 +1,4 @@
-# Llama Impact Pan-LATAM Hackathon
+## Llama Impact Pan-LATAM Hackathon
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 </div>
 
-# align="center"> EduTrack AI
+# <div align="center"> EduTrack AI
 
 <br>
 
