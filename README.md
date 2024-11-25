@@ -10,8 +10,6 @@
 
 <br>
 
-<div>
-
 ![Static Badge](https://img.shields.io/badge/DEVELOPING-STATUS?style=for-the-badge&label=STATUS&color=bright%20green)
 <br>
 ![Static Badge](https://img.shields.io/badge/Novembro%2F24-Create_in?label=Create%20in&color=purple)
@@ -20,7 +18,12 @@
 ![Static Badge](https://img.shields.io/badge/Llobo_Squad-Create_in%3A?logo=Novembro%2F24&label=Llama%20Impact%20Pan-LATAM%20Hackathon&color=blue)
 
 
-This project aims to create a low-cost, AI-powered dashboard that synthesizes students' academic performance, school records, and teacher feedback to improve monitoring, early diagnosis, and communication between schools, families, and professionals.
+<div align="center"> This project aims to create a low-cost, AI-powered dashboard that synthesizes students' academic performance, school records, and teacher feedback to improve monitoring, early diagnosis, and communication between schools, families, and professionals.
+
+<br>
+
+### <div align="center"> By Llobo Squad </div>
+
 
 </div>
 
@@ -46,24 +49,20 @@ This project aims to create a low-cost, AI-powered dashboard that synthesizes st
 
     ✅ Point out possible cognitive-behavioral or learning disorders, using the data presented and interpreted by AI, generating an alert to be carried out by more adequate professionals.
 
-## What was done during the Llama Impact Pan-LATAM Hackathon:
-### 🚧 Adicionar oq foi feito no hackathon
- - Fases do Projeto: 
+## What was done during the Llama Impact Pan-LATAM Hackathon: 
 
-  1. Levantamento de requisitos e preparação do dataset. 
+- Functional Dashboard in PowerBI based on a Multi-Agent System that uses Llama 3.1 8B Instruct through the SambaNova API;
 
-  2. Desenvolvimento e treinamento inicial do modelo;
-
-  3. Testes e otimizações baseadas em feedback inicial;
-
-  4. Implementação de melhorias e ajustes finais;
-
-  5. Lançamento e monitoramento do modelo em ambiente de produção; 🚧
+- Python Script to Update Excel Base Automatically.
   
-
 ## What we plan for the future:
-### 🚧 Adicionar oq não foi feito no Hackathon
-- **Timeline**: As atividades relacionadas com as fases enumeradas acima serão desenvolvidas durante o **mês de maio de 2024**. Um modelo treinado pronto para responder perguntas sobre as perguntas mais frequentes de MMGD deverá ser apresentado até o final do mês. 🚧
+
+- Replacing the Excel Base and PowerBI, respectively, with a Relational Database and a Solution for Open Source Dashboards;
+
+- Support Parent Feedback;
+
+- Using a Trained Model to Raise More Assertive Diagnostic Hypotheses.
+  
 
 ## Market Size
 
@@ -80,19 +79,13 @@ The focus is on serving both the public education sector (through government ten
 The model involves a annual fee of $50 per student, alongside implementation costs for new institutions. The Serviceable Obtainable Market (SOM) is valued at $92.75M, the Serviceable Addressable Market (SAM) at $151M, and the Total Addressable Market (TAM) at $169M.
 
 
-## Technical Requirements: 
-### 🚧 Adicionar termos tecnicos
-- Operating system: Windows, Linux or Mac with internet access;
+## Technologies Used: 
 
-- ;
-
-- Ambientes de desenvolvimento: ![Static Badge](https://img.shields.io/badge/Google%20Colab-purple) ![Static Badge](https://img.shields.io/badge/Microsoft_Power_BI-blue)
+![Static Badge](https://img.shields.io/badge/Google%20Colab-purple)
+![Static Badge](https://img.shields.io/badge/Microsoft_PowerBI-blue)
 ![Static Badge](https://img.shields.io/badge/Llama3.1_8B_Instruct-Multi--Agent-yellow?style=flat&label=Llama%203.1%208B%20Instruct&color=yellow)
-
-- Linguagem: ![Static Badge](https://img.shields.io/badge/Python-brightgreen)
-
-
-- Bibliotecas Python: `pip`, `pandas`, `transformers`, `datasets`, `google.colab.files`, `protobuf(3.20.3)`, `tensorflow`, `autotrain`. 🚧
+![Static Badge](https://img.shields.io/badge/Python-brightgreen)
+![Static Badge](https://img.shields.io/badge/SambaNova_System-darkorange)
 
 
 ## How to use this project?
