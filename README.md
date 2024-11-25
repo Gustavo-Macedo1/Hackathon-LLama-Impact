@@ -77,7 +77,7 @@ The focus is on serving both the public education sector (through government ten
 
 ### Business Model and Market Potential
 
-The model involves a monthly fee of $50 per student, alongside implementation costs for new institutions. The Serviceable Obtainable Market (SOM) is valued at $92.75M, the Serviceable Addressable Market (SAM) at $151M, and the Total Addressable Market (TAM) at $169M. 🚧🚧
+The model involves a monthly fee of $50 per student, alongside implementation costs for new institutions. The Serviceable Obtainable Market (SOM) is valued at $92.75M, the Serviceable Addressable Market (SAM) at $151M, and the Total Addressable Market (TAM) at $169M.
 
 
 ## Technical Requirements: 
