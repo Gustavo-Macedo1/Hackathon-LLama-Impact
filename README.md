@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Llama-impact](")
+🚧 ![Llama-impact](") 🚧
 
 </div>
 
@@ -47,7 +47,7 @@ This project aims to create a low-cost, AI-powered dashboard that synthesizes st
     ✅ Point out possible cognitive-behavioral or learning disorders, using the data presented and interpreted by AI, generating an alert to be carried out by more adequate professionals.
 
 ## What was done during the Llama Impact Pan-LATAM Hackathon:
-###🚧 Adicionar oq foi feito no hackathon
+### 🚧 Adicionar oq foi feito no hackathon
  - Fases do Projeto: 
 
   1. Levantamento de requisitos e preparação do dataset. 
@@ -58,19 +58,19 @@ This project aims to create a low-cost, AI-powered dashboard that synthesizes st
 
   4. Implementação de melhorias e ajustes finais;
 
-  5. Lançamento e monitoramento do modelo em ambiente de produção;
+  5. Lançamento e monitoramento do modelo em ambiente de produção; 🚧
   
 
 ## What we plan for the future:
-###🚧 Adicionar oq não foi feito no Hackathon
-- **Timeline**: As atividades relacionadas com as fases enumeradas acima serão desenvolvidas durante o **mês de maio de 2024**. Um modelo treinado pronto para responder perguntas sobre as perguntas mais frequentes de MMGD deverá ser apresentado até o final do mês.
+### 🚧 Adicionar oq não foi feito no Hackathon
+- **Timeline**: As atividades relacionadas com as fases enumeradas acima serão desenvolvidas durante o **mês de maio de 2024**. Um modelo treinado pronto para responder perguntas sobre as perguntas mais frequentes de MMGD deverá ser apresentado até o final do mês. 🚧
 
 
 # 🚧🚧 ADICIONAR BENCHMARK, ESCOPO DE MERCADO [TAM] e [SAM], FLUXO DE RECEITA E ESCALABILIDADE 🚧🚧
 
 
 ## Technical Requirements: 
-###🚧 Adicionar termos tecnicos
+### 🚧 Adicionar termos tecnicos
 - Operating system: Windows, Linux or Mac with internet access;
 
 - ;
@@ -82,7 +82,7 @@ This project aims to create a low-cost, AI-powered dashboard that synthesizes st
 - Linguagem: ![Static Badge](https://img.shields.io/badge/Python-3.8%20ou%20superior-brightgreen)
 
 
-- Bibliotecas Python: `pip`, `pandas`, `transformers`, `datasets`, `google.colab.files`, `protobuf(3.20.3)`, `tensorflow`, `autotrain`.
+- Bibliotecas Python: `pip`, `pandas`, `transformers`, `datasets`, `google.colab.files`, `protobuf(3.20.3)`, `tensorflow`, `autotrain`. 🚧
 
 
 ## How to use this project?
@@ -94,10 +94,10 @@ This project aims to create a low-cost, AI-powered dashboard that synthesizes st
 - Contact the team leader by using the following e-mail: **gustavoomacedo@outlook.com.br**
 
 ## Meet the Project Team
-###🚧 Linkar GITHUB Luiz, Isaque e Mateus
+### 🚧 Linkar GITHUB Luiz, Isaque e Mateus
 - [Gustavo de Oliveira Macedo](https://github.com/Gustavo-Macedo1)
 - [Luiz Henrique Zamprogno](https://github.com/)
 - [Luzia Fernanda Alves Moura](https://github.com/LuziaMoura)
 - [Isaque Santos](https://github.com/)
 - [Mateus Rabelo de Oliveira](https://github.com/)
-- [Marcus Vinicius Rabelo Martins](https://github.com/rabelomanager)
+- [Marcus Vinicius Rabelo Martins](https://github.com/rabelomanager) 🚧
